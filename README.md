@@ -11,7 +11,9 @@
 </a>
 <br /><br /> <br />
 
-<img width="600px" height="400px" src="/assets/gifInit.gif" align="center" />
+<p align="center">
+  <img width="60%" height="400px" src="/assets/gifInit.gif" />
+</p>
 
 ### 💬 About me
 I'm a web developer, passionate about programming new things and the headaches that come with it. I am currently nineteen years old and I am studying software engineering, however my passion for this has led me to train from an early age in a self-taught way that is the reason why you find me here. I hope to continue to improve as a developer and take advantage of every opportunity that comes my way. ✌
