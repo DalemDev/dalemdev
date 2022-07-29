@@ -40,7 +40,7 @@ I'm a web developer, passionate about programming new things and the headaches t
 ***
 
 ```js
-const dalembergdev = {
+const dalemberg_dev = {
   technologies: 'web',
   skills: ['web development', 'web design', 'performance web']
 }
