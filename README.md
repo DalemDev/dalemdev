@@ -12,7 +12,7 @@
 <br /><br /> <br />
 
 <p align="center">
-  <img width="60%" height="400px" src="/assets/gifInit.gif" />
+  <img width="100%" height="400px" src="/assets/gifInit.gif" />
 </p>
 
 ### 💬 About me
