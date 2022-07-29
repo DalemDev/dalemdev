@@ -1,4 +1,4 @@
-## Hi, I'm Dalemberg 👩‍💻
+## Hi, I'm Dalemberg 👩‍💻👋
 <br />
 <a href="https://twitter.com/Dalemberg72">
   <img align="left" alt="Dalemberg - Twitter" width="30px" src="/assets/twitter.svg" />
