@@ -23,7 +23,7 @@ I'm a web developer, passionate about programming new things and the headaches t
 - Node Js
 - MongoDB
 
-### 👩‍💻 I'm working on
+### 👨‍💻 I'm working on
 - Building projects 
 - My portfolio website
 
