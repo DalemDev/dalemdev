@@ -29,7 +29,6 @@ I'm a web developer, passionate about programming new things and the headaches t
 
 ### 💡 Goals for 2022
 - learn new technologies
-- build a blog about algorithms and logical thinking
 - get a job as a web developer
 
 ### 👀 More about me
