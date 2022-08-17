@@ -1,4 +1,4 @@
-## Hi, I'm Dalemberg 👋
+## Hola, Soy Dalemberg 👋
 <br />
 <a href="https://twitter.com/Dalemberg72">
   <img align="left" alt="Dalemberg - Twitter" width="30px" src="/assets/twitter.svg" />
@@ -15,37 +15,29 @@
   <img width="100%" height="400px" src="/assets/gifInit.gif" />
 </p>
 
-### 💬 About me
-I'm a web developer, passionate about programming new things and the headaches that come with it. I am currently nineteen years old and I am studying software engineering, however my passion for this has led me to train from an early age in a self-taught way that is the reason why you find me here. I hope to continue to improve as a developer and take advantage of every opportunity that comes my way. ✌
+### 💬 Sobre mí
+Soy desarrollador web, apasionado por la programación, a pesar de los dolores de cabeza que esto conlleva. Actualmente estoy estudiando ingeniería de software, sin embargo mi pasión por esto me ha llevado a formarme desde temprana edad de forma autodidacta, por esa razón me encuentras aquí. Espero seguir mejorando como desarrollador y aprovechar cada oportunidad que se me presente. ✌
 
-### ✔️ I'm currently learning
-- React Js
+### ✔️ Actualmente estoy aprendiendo
 - Node Js
 - MongoDB
 
-### 👨‍💻 I'm working on
-- Building projects 
-- My portfolio website
+### 👨‍💻 Estoy trabajando en
+- Construir proyectos web 
+- Mi portafolio web
 
-### 💡 Goals for 2022
-- learn new technologies
-- get a job as a web developer
+### 💡 Metas para el 2022
+- Aprender nuevas tecnologías
+- Conseguir un trabajo como desarrollador web
 
-### 👀 More about me
-- I am from Ecuador
-- I love zombie series and movies 
-- I started programming when I was fifteen
+### 👀 Más sobre mí
+- Soy de Ecuador <img width="18px" height="18px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ea-1f1e8.png" />
+- Me encantan las películas y series de zombies  
+- Empecé a programar a la edad de 15 años 
 
 ***
 
-```js
-const dalemberg_dev = {
-  technologies: 'web',
-  skills: ['web development', 'web design', 'performance web']
-}
-```
-
-### Languages & Tools 
+### Tecnologías y herramientas
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -64,7 +56,7 @@ const dalemberg_dev = {
 
 -->
 
-### Other Languages I know
+### Otros lenguajes que conozco
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ***
