@@ -28,7 +28,7 @@ Soy desarrollador web, apasionado por la programación, a pesar de los dolores d
 
 ### 💡 Metas para el 2022
 - Aprender nuevas tecnologías
-- Conseguir un trabajo como desarrollador web
+- Conseguir trabajo como desarrollador web
 
 ### 👀 Más sobre mí
 - Soy de Ecuador <img width="18px" height="18px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ea-1f1e8.png" />
