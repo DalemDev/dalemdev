@@ -58,20 +58,3 @@ Soy desarrollador web, apasionado por la programación, a pesar de los dolores d
 
 ### Otros lenguajes que conozco
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
-***
-
-<details>
-<summary>
-  Projects I have recently completed
-</summary>
-
-<br />
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dalemberg-Dev&repo=Portafolio)](https://github.com/Dalemberg-Dev/Portafolio)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dalemberg-Dev&repo=AppCalculadoraReact)](https://github.com/Dalemberg-Dev/AppCalculadoraReact)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dalemberg-Dev&repo=AppTareasReact)](https://github.com/Dalemberg-Dev/AppTareasReact)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dalemberg-Dev&repo=Temporizador)](https://github.com/Dalemberg-Dev/Temporizador)]
-
-<br />
-</details>
