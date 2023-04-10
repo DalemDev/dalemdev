@@ -19,14 +19,14 @@
 Soy desarrollador web, apasionado por la programación, a pesar de los dolores de cabeza que esto conlleva. Actualmente estoy estudiando ingeniería de software, sin embargo mi pasión por esto me ha llevado a formarme desde temprana edad de forma autodidacta, por esa razón me encuentras aquí. Espero seguir mejorando como desarrollador y aprovechar cada oportunidad que se me presente. ✌
 
 ### ✔️ Actualmente estoy aprendiendo
-- Node Js
-- MongoDB
+- Laravel
+- Redux
 
 ### 👨‍💻 Estoy trabajando en
 - Construir proyectos web 
 - Mi portafolio web
 
-### 💡 Metas para el 2022
+### 💡 Metas para el 2023
 - Aprender nuevas tecnologías
 - Conseguir trabajo como desarrollador web
 
