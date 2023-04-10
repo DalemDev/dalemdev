@@ -1,12 +1,12 @@
 ## Hola, Soy Dalemberg 👋
 <br />
-<a href="https://twitter.com/Dalemberg72">
+<a href="https://twitter.com/dalemdev/">
   <img align="left" alt="Dalemberg - Twitter" width="30px" src="/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dalemberg-garcia-688489216/">
   <img align="left" alt="Dalemberg - Linkedin" width="30px" src="/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dalemberg-garcia-688489216/">
+<a href="https://dalemdev.github.io/Portafolio/">
   <img align="left" alt="Dalemberg - website" width="30px" src="/assets/website.png" />
 </a>
 <br /><br /> <br />
