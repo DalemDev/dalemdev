@@ -19,16 +19,15 @@
 Soy desarrollador web, apasionado por la programación, a pesar de los dolores de cabeza que esto conlleva. Actualmente estoy estudiando ingeniería de software, sin embargo mi pasión por esto me ha llevado a formarme desde temprana edad de forma autodidacta, por esa razón me encuentras aquí. Espero seguir mejorando como desarrollador y aprovechar cada oportunidad que se me presente. ✌
 
 ### ✔️ Actualmente estoy aprendiendo
-- Laravel
-- Redux
+- Clean Code
+- Pruebas QA
 
 ### 👨‍💻 Estoy trabajando en
-- Construir proyectos web 
-- Mi portafolio web
+- Departamento de sistemas - QA Engineer
 
-### 💡 Metas para el 2023
-- Aprender nuevas tecnologías
-- Conseguir trabajo como desarrollador web
+### 💡 Metas para el 2025
+- Mejorar la calidad de mi código
+- Conseguir trabajo de programador en remoto 
 
 ### 👀 Más sobre mí
 - Soy de Ecuador <img width="18px" height="18px" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ea-1f1e8.png" />
